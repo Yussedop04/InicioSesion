@@ -1,0 +1,13 @@
+:root{
+  --1er-color: #05161A;
+  --2do-color: #072E33;
+  --3er-color: #0C7075;
+  --4to-color: #0f989c;
+  --5to-color: #6da5c0;
+  --6to-color: #294D61;
+  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
+}
+{
+  margin: 0;  
+  padding: 0;
+
